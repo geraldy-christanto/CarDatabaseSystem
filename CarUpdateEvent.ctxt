@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CarUpdateEvent
+comment0.text=\r\n\ Class\ untuk\ memperbarui\ terjadinya\ event\r\n\ \r\n\ @version\ 1.0,\ 23\ Maret\ 2020\r\n\ @author\ Geraldy\ Christanto\r\n
+comment1.params=source
+comment1.target=CarUpdateEvent(java.lang.Object)
+comment1.text=\r\n\ @param\ source\ Sebagai\ source\ even\ dari\ EventObject\r\n
+numComments=2

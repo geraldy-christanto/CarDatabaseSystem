@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AboutDialog
+comment0.text=\r\n\ Informasi\ aplikasi\ melalui\ about\ dialog\r\n\r\n\ @version\ 1.0,\ 22\ Maret\ 2020\r\n\ @author\ Geraldy\ Christanto\r\n
+comment1.params=parent\ title\ modal
+comment1.target=AboutDialog(javax.swing.JFrame,\ java.lang.String,\ boolean)
+comment1.text=\r\n\ @param\ parent\ Parent\ JFrame\ untuk\ menampilkan\ tulisan\ di\ atas\ menu\r\n\ @param\ title\ Judul\ dialog\r\n\ @param\ modal\ Modal\ window\ untuk\ indikator\r\n
+comment2.params=ev
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ Action\ untuk\ menutup\ menu\r\n\r\n\ @param\ ev\ Objek\ ActionEvent\r\n
+comment3.params=
+comment3.target=void\ closing()
+comment3.text=\r\n\ Menyembunyikan\ menu\ tanpa\ perlu\ membuat\ object\ menu\ baru\r\n\ dengan\ menggunakan\ setVisible\r\n
+comment4.params=
+comment4.target=void\ showAbout()
+comment4.text=\r\n\ Method\ untuk\ menampilkan\ About\ dialog\r\n
+numComments=5

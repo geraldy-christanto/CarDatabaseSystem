@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=AddCarMenu
+comment0.text=\r\n\ Menu\ untuk\ menambahkan\ mobil\r\n\ \r\n\ @version\ 1.0,\ 23\ Maret\ 2020\r\n\ @author\ Geraldy\ Christanto\r\n
+comment1.params=carSys
+comment1.target=AddCarMenu(CarDatabaseSystem)
+comment1.text=\r\n\ Menu\ yang\ ditampilkan\ dari\ class\ AddCarMenu\r\n\ \r\n\ @param\ carSys\ Parameter\ objek\ CarDatabaseSystem\r\n
+comment2.params=ev
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ Mengecek\ action\ yang\ terjadi\ ketika\ button\ ditekan\r\n\r\n\ @param\ ev\ Object\ ActionEvent\r\n
+comment3.params=
+comment3.target=void\ resetButtonClicked()
+comment4.params=
+comment4.target=void\ saveButtonClicked()
+comment5.params=arg
+comment5.target=boolean\ validateString(java.lang.String)
+comment5.text=\r\n\ Mengecek\ argumen\ jika\ input\ yang\ dimasukkan\ kurang\ dari\ 3\ character\ maka\ tidak\ valid\r\n\r\n\ @param\ arg\ String\ untuk\ divalidasi\r\n\ @return\ true\ Jika\ falid\r\n
+comment6.params=distance
+comment6.target=boolean\ validateDistance(java.lang.String)
+comment6.text=\r\n\ Mengecek\ argumen\ distance.\ Jika\ berbentuk\ decimal\r\n\r\n\ @param\ distance\ Nilai\ yang\ akan\ dijadikan\ tipe\ double\ dari\ String\r\n\ @return\ true\ jika\ valid\r\n
+numComments=7

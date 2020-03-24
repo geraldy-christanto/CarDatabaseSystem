@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SearchByOtherMenu
+comment0.text=\r\n\ Menu\ untuk\ mencari\ mobil\ berdasarkan\ harga\r\n\r\n\ @version\ 1.0,\ 23\ Maret\ 2020\r\n\ @author\ Geraldy\ Christanto\r\n
+comment1.params=carSys
+comment1.target=SearchByOtherMenu(CarDatabaseSystem)
+comment1.text=\r\n\ @param\ carSys\ Object\ dari\ class\ CarDatabaseSystem\r\n\ @param\ dest\ Menu\ yang\ akan\ ditampilkan\r\n
+comment2.params=ev
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ Cek\ Input\ user\ pada\ Button\r\n\r\n\ @param\ ev\ Object\ ActionEvent\r\n
+comment3.params=
+comment3.target=void\ nextButtonClicked()
+comment3.text=\r\n\ Menuju\ index\ berikutnya,\ jika\ ada\ dan\ akan\ menampilkan\ secara\ visual\ detail\ Mobil\ pada\ index\ tersebut\r\n
+comment4.params=
+comment4.target=void\ previousButtonClicked()
+comment4.text=\r\n\ Menuju\ index\ berikutnya\ jika\ ada\ dan\ akan\ menampilkan\ secara\ detail\ informasi\ mobil\ pada\ index\ tersebut\r\n
+comment5.params=
+comment5.target=void\ resetButtonClicked()
+comment5.text=\r\n\ Menghapus\ hasil\ pencarian\r\n
+comment6.params=
+comment6.target=void\ searchButtonClicked()
+comment6.text=\r\n\ Mencari\ mobil\ berdasarkan\ harga\r\n
+numComments=7

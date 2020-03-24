@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ShowAllCarsMenu
+comment0.text=\r\n\ Menu\ untuk\ menampilkan\ semua\ informasi\ mobil\r\n\ @version\ 1.0,\ 22\ Maret\ 2020\r\n\ @author\ Geraldy\ Christanto\r\n
+comment1.params=carSys
+comment1.target=ShowAllCarsMenu(CarDatabaseSystem)
+comment1.text=\r\n\ @param\ carSys\ Objek\ CarDatabaseSystem\r\n
+comment2.params=ev
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ Menunggu\ event\ button\ ketika\ di\ klik\r\n\r\n\ @param\ ev\ Objek\ ActionEvent\r\n
+comment3.params=ev
+comment3.target=void\ carsUpdated(CarUpdateEvent)
+comment3.text=\r\n\ Method\ untuk\ menotice\ ketika\ Car\ Collection\ di\ update\r\n\r\n\ @param\ ev\ Objek\ CarUpdateEvent\r\n
+comment4.params=ev
+comment4.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+comment4.text=\r\n\ Update\ data\ car\ collection\ ketika\ berpindah\ menu\r\n\r\n\ @param\ ev\ Objek\ ChangeEvent\r\n
+comment5.params=
+comment5.target=void\ nextButtonClicked()
+comment5.text=\r\n\ Tampilkan\ item\ selanjutnya\ berdasarkan\ index,\ jika\ ada\r\n
+comment6.params=
+comment6.target=void\ previousButtonClicked()
+comment6.text=\r\n\ Tampilkan\ item\ sebelumnya\ berdasarkan\ index,\ jika\ ada\r\n\ \r\n
+numComments=7

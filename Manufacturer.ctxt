@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Manufacturer
+comment0.text=\r\n\ Menyimpan\ dan\ mengambil\ objek\ manufacturer\ mobil\r\n\r\n\ @version\ 1.0,\ 23\ Maret\ 2020\r\n\ @author\ Geraldy\ Christanto\r\n
+comment1.params=name\ c
+comment1.target=Manufacturer(java.lang.String,\ Car)
+comment1.text=\r\n\ @param\ name\ Nama\ dari\ manufacturer\r\n\ @param\ car\ Objek\ car\ yang\ ditambahkan\ manufacturer\r\n
+comment2.params=c
+comment2.target=void\ addCar(Car)
+comment2.text=\r\n\ Tambahkan\ mobil\ baru\ dalam\ manufacturer\r\n\r\n\ @param\ car\ Mobil/car\ yang\ ditambahkan\ dalam\ manufacturer\r\n
+comment3.params=
+comment3.target=int\ carCount()
+comment3.text=\r\n\ Menghitung\ mobil\ berdasarkan\ manufacturer\r\n\ @return\ Jumlah\ mobil\ berdasarkan\ manufacturer\r\n
+comment4.params=
+comment4.target=Car[]\ getAllCars()
+comment4.text=\r\n\ Mendapatkan\ semua\ mobil\ dalam\ koleksi\ mobil\ berdasarkan\ manufacturer\r\n\ @return\ Array\ dari\ mobil\ berdasarkan\ manufacturer\r\n
+comment5.params=
+comment5.target=java.lang.String\ getManufacturerName()
+comment5.text=\r\n\ Method\ untuk\ mendapatkan\ nama\ manufacturer\r\n\ @return\ manufacturer\ Nama\ manufacturer\r\n
+comment6.params=c\ extendBy
+comment6.target=Car[]\ resizeArray(Car[],\ int)
+comment6.text=\r\n\ Mengatur\ ulang\ ukuran\ array\ dari\ Car\r\n\r\n\ @param\ c\ array\ Car\ yang\ akan\ diresize\r\n\ @param\ extendBy\ Jumlah\ ukuran\ baru\ yang\ akan\ di\ extend\r\n\ @return\ result\ Hasil\ array\ yang\ telah\ di\ resize\r\n
+comment7.params=name
+comment7.target=void\ setManufacturersName(java.lang.String)
+comment7.text=\r\n\ Method\ untuk\ mengatur\ nama\ dari\ manufaktur\ \r\n\ \r\n
+numComments=8
