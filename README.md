@@ -1,10 +1,12 @@
-#Sistem Database Mobil
+# Sistem Database Mobil
 
 *Author	: Geraldy Christanto*
+
 *Version	: 1.0*
+
 *Date	: 24 March 2020*
 
-###Tugas Pemrograman Berorientasi Objek dengan menerapkan Java Collection Framework
+### Tugas Pemrograman Berorientasi Objek dengan menerapkan Java Collection Framework
 
 **1. Collection interface**
 Program ini menggunakan beberapa method yang ada dalam Collection interface seperti size(), konversi dari vector ke array dan sebaliknya, dan hashCode()
